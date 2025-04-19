@@ -3,7 +3,7 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YoonJinJung)](https://github.com/YoonJinJung/github-readme-stats)
 
 ## Github Burning 제작 중...
-<img src="https://github-burnung-server.vercel.app/api/svg" />
+<img src="https://github-burnung-server.vercel.app/api/svg-example" />
 <!--
 **YoonJinJung/YoonJinJung** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
